@@ -1,0 +1,21 @@
+{
+  "name": "zeeshan-python-theme",
+  "displayName": "theme-by-zeeshan",
+  "description": "this is just a testing theme by zeeshan for python",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "python-theme-by-zeeshan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/python-theme-by-zeeshan-color-theme.json"
+      }
+    ]
+  }
+}
